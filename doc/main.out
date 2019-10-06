@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Network architecture}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Convolutional networks}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Loss function}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Generalized dice loss function}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Charbonnier loss function}{subsection.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Convolutional U-NET}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.4}{ADAM optimizer}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Realization of the task}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Dataset}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Data structure}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Training}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Evaluation on a video sequence and testing}{section.3}% 13
+\BOOKMARK [1][-]{section.4}{Conclusion, further improvements}{}% 14
